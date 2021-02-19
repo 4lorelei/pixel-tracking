@@ -37,9 +37,7 @@ pyTelegramBotAPI==3.6.6
 python-slugify==4.0.0
 python-telegram-bot==13.2
 pytz==2019.3
-pywin32==227
 PyYAML==5.2
-qrcode==6.1
 requests==2.22.0
 ruamel.yaml==0.15.100
 six==1.13.0
