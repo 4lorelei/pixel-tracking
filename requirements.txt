@@ -32,7 +32,6 @@ pycodestyle==2.5.0
 pycparser==2.19
 PyJWT==1.7.1
 pylint==2.4.4
-pypiwin32==223
 pyTelegramBotAPI==3.6.6
 python-slugify==4.0.0
 python-telegram-bot==13.2
